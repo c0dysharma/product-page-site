@@ -18,6 +18,9 @@ module.exports = {
       backgroundImage: {
         'imageMobile': "url('../src/images/image-product-mobile.jpg')",
         'imageDesktop': "url('../src/images/image-product-desktop.jpg')",
+      },
+      minWidth: {
+        '1/2': '300px',
       }
     },
   },
